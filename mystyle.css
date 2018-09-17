@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	font-family: arial, sans-serif;
+}
+
+header {
+	background-color: black;
+	color: blue;
+	width: 100%;
+	overflow: hidden;
+	padding: 20px 10px;
+	text-align: center;
+}
+
+.top {
+	height: 3vh;
+	text-align: center;
+}
+
+.bottom {
+	height: 200vh;
+	text-align: center;
+}
